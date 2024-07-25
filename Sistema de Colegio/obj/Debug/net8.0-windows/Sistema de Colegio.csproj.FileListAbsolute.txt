@@ -1,0 +1,26 @@
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\bin\Debug\net8.0-windows\Sistema de Colegio.exe
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\bin\Debug\net8.0-windows\Sistema de Colegio.deps.json
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\bin\Debug\net8.0-windows\Sistema de Colegio.runtimeconfig.json
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\bin\Debug\net8.0-windows\Sistema de Colegio.dll
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\bin\Debug\net8.0-windows\Sistema de Colegio.pdb
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\obj\Debug\net8.0-windows\Sistema de Colegio.csproj.AssemblyReference.cache
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\obj\Debug\net8.0-windows\Sistema_de_Colegio.Login.resources
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\obj\Debug\net8.0-windows\Sistema_de_Colegio.Usuario.resources
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\obj\Debug\net8.0-windows\Sistema de Colegio.csproj.GenerateResource.cache
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\obj\Debug\net8.0-windows\Sistema de Colegio.GeneratedMSBuildEditorConfig.editorconfig
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\obj\Debug\net8.0-windows\Sistema de Colegio.AssemblyInfoInputs.cache
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\obj\Debug\net8.0-windows\Sistema de Colegio.AssemblyInfo.cs
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\obj\Debug\net8.0-windows\Sistema de Colegio.csproj.CoreCompileInputs.cache
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\obj\Debug\net8.0-windows\Sistema de Colegio.sourcelink.json
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\obj\Debug\net8.0-windows\Sistema .05203305.Up2Date
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\obj\Debug\net8.0-windows\Sistema de Colegio.dll
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\obj\Debug\net8.0-windows\refint\Sistema de Colegio.dll
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\obj\Debug\net8.0-windows\Sistema de Colegio.pdb
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\obj\Debug\net8.0-windows\Sistema de Colegio.genruntimeconfig.cache
+G:\Israel\Proyectos\Sistema de Colegio\Sistema de Colegio\obj\Debug\net8.0-windows\ref\Sistema de Colegio.dll

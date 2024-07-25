@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Israel\\Proyectos\\Sistema de Colegio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29D42ADB-B067-4AC9-AC66-61D3C58052C3}|Sistema de Colegio\\Sistema de Colegio.csproj|g:\\israel\\proyectos\\sistema de colegio\\sistema de colegio\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D42ADB-B067-4AC9-AC66-61D3C58052C3}|Sistema de Colegio\\Sistema de Colegio.csproj|solutionrelative:sistema de colegio\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D42ADB-B067-4AC9-AC66-61D3C58052C3}|Sistema de Colegio\\Sistema de Colegio.csproj|g:\\israel\\proyectos\\sistema de colegio\\sistema de colegio\\auxiliarclasses\\usermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D42ADB-B067-4AC9-AC66-61D3C58052C3}|Sistema de Colegio\\Sistema de Colegio.csproj|solutionrelative:sistema de colegio\\auxiliarclasses\\usermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D42ADB-B067-4AC9-AC66-61D3C58052C3}|Sistema de Colegio\\Sistema de Colegio.csproj|g:\\israel\\proyectos\\sistema de colegio\\sistema de colegio\\usuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D42ADB-B067-4AC9-AC66-61D3C58052C3}|Sistema de Colegio\\Sistema de Colegio.csproj|solutionrelative:sistema de colegio\\usuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D42ADB-B067-4AC9-AC66-61D3C58052C3}|Sistema de Colegio\\Sistema de Colegio.csproj|g:\\israel\\proyectos\\sistema de colegio\\sistema de colegio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D42ADB-B067-4AC9-AC66-61D3C58052C3}|Sistema de Colegio\\Sistema de Colegio.csproj|solutionrelative:sistema de colegio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D42ADB-B067-4AC9-AC66-61D3C58052C3}|Sistema de Colegio\\Sistema de Colegio.csproj|G:\\Israel\\Proyectos\\Sistema de Colegio\\sistema de colegio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29D42ADB-B067-4AC9-AC66-61D3C58052C3}|Sistema de Colegio\\Sistema de Colegio.csproj|solutionrelative:sistema de colegio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D42ADB-B067-4AC9-AC66-61D3C58052C3}|Sistema de Colegio\\Sistema de Colegio.csproj|g:\\israel\\proyectos\\sistema de colegio\\sistema de colegio\\auxiliarclasses\\loginmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D42ADB-B067-4AC9-AC66-61D3C58052C3}|Sistema de Colegio\\Sistema de Colegio.csproj|solutionrelative:sistema de colegio\\auxiliarclasses\\loginmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D42ADB-B067-4AC9-AC66-61D3C58052C3}|Sistema de Colegio\\Sistema de Colegio.csproj|G:\\Israel\\Proyectos\\Sistema de Colegio\\sistema de colegio\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29D42ADB-B067-4AC9-AC66-61D3C58052C3}|Sistema de Colegio\\Sistema de Colegio.csproj|solutionrelative:sistema de colegio\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D42ADB-B067-4AC9-AC66-61D3C58052C3}|Sistema de Colegio\\Sistema de Colegio.csproj|g:\\israel\\proyectos\\sistema de colegio\\sistema de colegio\\connection\\mainconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D42ADB-B067-4AC9-AC66-61D3C58052C3}|Sistema de Colegio\\Sistema de Colegio.csproj|solutionrelative:sistema de colegio\\connection\\mainconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D42ADB-B067-4AC9-AC66-61D3C58052C3}|Sistema de Colegio\\Sistema de Colegio.csproj|g:\\israel\\proyectos\\sistema de colegio\\sistema de colegio\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D42ADB-B067-4AC9-AC66-61D3C58052C3}|Sistema de Colegio\\Sistema de Colegio.csproj|solutionrelative:sistema de colegio\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "G:\\Israel\\Proyectos\\Sistema de Colegio\\Sistema de Colegio\\Usuario.cs",
+              "RelativeDocumentMoniker": "Sistema de Colegio\\Usuario.cs",
+              "ToolTip": "G:\\Israel\\Proyectos\\Sistema de Colegio\\Sistema de Colegio\\Usuario.cs",
+              "RelativeToolTip": "Sistema de Colegio\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T17:36:55.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.Designer.cs",
+              "DocumentMoniker": "G:\\Israel\\Proyectos\\Sistema de Colegio\\Sistema de Colegio\\Usuario.Designer.cs",
+              "RelativeDocumentMoniker": "Sistema de Colegio\\Usuario.Designer.cs",
+              "ToolTip": "G:\\Israel\\Proyectos\\Sistema de Colegio\\Sistema de Colegio\\Usuario.Designer.cs",
+              "RelativeToolTip": "Sistema de Colegio\\Usuario.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T17:36:44.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "G:\\Israel\\Proyectos\\Sistema de Colegio\\Sistema de Colegio\\Login.cs",
+              "RelativeDocumentMoniker": "Sistema de Colegio\\Login.cs",
+              "ToolTip": "G:\\Israel\\Proyectos\\Sistema de Colegio\\Sistema de Colegio\\Login.cs",
+              "RelativeToolTip": "Sistema de Colegio\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T17:13:49.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserMethods.cs",
+              "DocumentMoniker": "G:\\Israel\\Proyectos\\Sistema de Colegio\\Sistema de Colegio\\AuxiliarClasses\\UserMethods.cs",
+              "RelativeDocumentMoniker": "Sistema de Colegio\\AuxiliarClasses\\UserMethods.cs",
+              "ToolTip": "G:\\Israel\\Proyectos\\Sistema de Colegio\\Sistema de Colegio\\AuxiliarClasses\\UserMethods.cs",
+              "RelativeToolTip": "Sistema de Colegio\\AuxiliarClasses\\UserMethods.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAUwFQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:25:04.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainConnection.cs",
+              "DocumentMoniker": "G:\\Israel\\Proyectos\\Sistema de Colegio\\Sistema de Colegio\\Connection\\MainConnection.cs",
+              "RelativeDocumentMoniker": "Sistema de Colegio\\Connection\\MainConnection.cs",
+              "ToolTip": "G:\\Israel\\Proyectos\\Sistema de Colegio\\Sistema de Colegio\\Connection\\MainConnection.cs",
+              "RelativeToolTip": "Sistema de Colegio\\Connection\\MainConnection.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:10:24.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "G:\\Israel\\Proyectos\\Sistema de Colegio\\Sistema de Colegio\\Usuario.cs",
+              "RelativeDocumentMoniker": "Sistema de Colegio\\Usuario.cs",
+              "ToolTip": "G:\\Israel\\Proyectos\\Sistema de Colegio\\Sistema de Colegio\\Usuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema de Colegio\\Usuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:56:40.258Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "G:\\Israel\\Proyectos\\Sistema de Colegio\\Sistema de Colegio\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Sistema de Colegio\\Login.Designer.cs",
+              "ToolTip": "G:\\Israel\\Proyectos\\Sistema de Colegio\\Sistema de Colegio\\Login.Designer.cs",
+              "RelativeToolTip": "Sistema de Colegio\\Login.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:55:16.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginMethods.cs",
+              "DocumentMoniker": "G:\\Israel\\Proyectos\\Sistema de Colegio\\Sistema de Colegio\\AuxiliarClasses\\LoginMethods.cs",
+              "RelativeDocumentMoniker": "Sistema de Colegio\\AuxiliarClasses\\LoginMethods.cs",
+              "ToolTip": "G:\\Israel\\Proyectos\\Sistema de Colegio\\Sistema de Colegio\\AuxiliarClasses\\LoginMethods.cs",
+              "RelativeToolTip": "Sistema de Colegio\\AuxiliarClasses\\LoginMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:50:39.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "G:\\Israel\\Proyectos\\Sistema de Colegio\\Sistema de Colegio\\Login.cs",
+              "RelativeDocumentMoniker": "Sistema de Colegio\\Login.cs",
+              "ToolTip": "G:\\Israel\\Proyectos\\Sistema de Colegio\\Sistema de Colegio\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema de Colegio\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:49:44.411Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
